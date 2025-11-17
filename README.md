@@ -1,7 +1,7 @@
-# 🧠 EVOASTRA - Image Captioning using Flickr8k Dataset
+# 🧠 Project 1 - Image Captioning using Flickr8k Dataset
 
 ## 📘 Overview
-This project, built under the **EVOASTRA Internship**, focuses on generating human-like captions for images using Deep Learning.  
+This project,focuses on generating human-like captions for images using Deep Learning.  
 The system uses a **CNN encoder (InceptionV3)** to extract visual features and an **LSTM decoder** to generate natural language captions.  
 Additionally, the Streamlit interface provides **English → Hindi translation** and **Read-Aloud (Text-to-Speech)** support.
 
@@ -173,17 +173,7 @@ sentencepiece
 
 ---
 
-## 👨‍💻 Contributors
 
-* **Harsh Pandey** — Data Processing, Caption Cleaning, Project Workflow, English & Hindi Translation Features
-* **Anish Mehra** - Image Preprocessing, README, feature additon "Read Aloud" on streamlit using gtts
-* **Hitesh** – Worked on training the image captioning model.
-* **Om** – Worked on training the image captioning model.
-* **Aswin** – Worked on training the image captioning model.
-* **Chandrika** - Frontend through streamlit
-* **Florence** - Presentation
-* **Supriya** - Report
----
 
 ## 🏁 License
 
